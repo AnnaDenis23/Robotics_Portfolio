@@ -29,9 +29,7 @@
 * Победа в номинации
   **«Лучшее решение научной задачи средствами инженерной графики»**
 
- [Диплом](./docs/diploma_conference.pdf)
-
-![Диплом](./images/diploma_conference.png)
+ [Диплом](file:///C:/Users/Admin/Downloads/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%B5%D0%BD%D0%BA%D0%BE_%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%9C%D0%B0%D1%80%D1%82%D1%8B%D0%BD%D0%BE%D0%B2_251203_213608%20(1).pdf)
 
 ---
 
@@ -41,9 +39,7 @@
 * Новосибирск
 * 🏁 Хакатон: «Движение по городу»
 
-📄 [Диплом победителя](./docs/rtk_award.pdf)
-📷
-![Кубок РТК](./images/rtk_award.png)
+📄 [Диплом победителя](file:///C:/Users/Admin/Downloads/%D0%BA%D1%83%D0%B1%D0%BE%D0%BA%20%D0%A0%D0%A2%D0%9A%202025%20%20%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%B5%D0%BD%D0%BA%D0%BE.pdf)
 
 ---
 
