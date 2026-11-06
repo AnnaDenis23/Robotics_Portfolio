@@ -71,7 +71,7 @@
 
 📄 [Диплом участника](All Cups сertificate № fKLjIeilWR2z.pdf)
 
-📄 [Диплом участника](./кубок%20РТК%202025%20Денисенко.pdf)
+📄 [Диплом участника](All Cups сertificate № Xl0F3R8uNed8.pdf)
 
 ---
 
